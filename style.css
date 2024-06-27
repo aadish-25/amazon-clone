@@ -649,6 +649,10 @@ name-product a:hover{
   font-weight: 500;
 }
 
+.pre-footer span a:hover{
+  color: rgb(199, 81, 31);
+}
+
 .pre-footer-button {
   background: linear-gradient(to bottom,
       rgb(255, 215, 116) 40%,
