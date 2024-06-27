@@ -430,11 +430,15 @@ header {
   padding-top: 35px;
 }
 
-.sub-title>a {
+.sub-title a {
   text-decoration: none;
   color: #007185;
   font-weight: 500;
   margin-left: 15px;
+}
+
+.sub-title a:hover{
+  color: rgb(199, 81, 31);
 }
 
 /* ------------ Sliding Section ------------ */
@@ -477,6 +481,11 @@ header {
   font-weight: 600;
   text-decoration: none;
   color: #007185;
+}
+
+.sec-slider-text a:hover {
+  text-decoration: underline;
+  color: rgb(199, 81, 31);
 }
 
 /* CSS for slider images */
