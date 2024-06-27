@@ -512,6 +512,10 @@ header {
   height: 100%;
 }
 
+.video-promo img{
+  cursor: pointer;
+}
+
 /* ---------------Seperator------------------- */
 
 .a {
