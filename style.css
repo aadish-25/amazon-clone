@@ -271,6 +271,7 @@ header {
   cursor: pointer;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
+  padding: 8px;
 }
 
 .navbar-bottom-list li:hover {
