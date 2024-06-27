@@ -577,6 +577,10 @@ header {
   font-weight: 500;
 }
 
+name-product a:hover{
+  color: rgb(199, 81, 31);
+}
+
 .price-product {
   font-size: 17px;
   color: black;
