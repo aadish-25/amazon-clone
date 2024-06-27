@@ -705,11 +705,16 @@ footer {
   line-height: 30px;
 }
 
-.topFooter-links ul li:not(.heading) {
+.topFooter-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.topFooter-links ul li:not(.topFooter-links-heading) {
   font-size: 14px;
 }
 
-.topFooter-links ul li:hover:not(.heading) {
+.topFooter-links ul li:hover:not(.topFooter-links-heading) {
   text-decoration: underline;
   cursor: pointer;
 }
