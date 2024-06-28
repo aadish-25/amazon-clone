@@ -1,10 +1,13 @@
 rgb(19, 25, 33) - First nav
-rgb(35, 47, 62) - Second nav
+rgb(35, 47, 62) - Second nav, Top footer
+rgb(19, 26, 34) - Bottom footer
 rgb(204, 204, 204)  - Delivering to Pune
 rgb(212, 212, 212)  -Search icon
 rgb(243, 168, 71) - Search button
 rgb(148, 135, 115) - Search Amazon
 rgb(227, 230, 230) - Background
+rgb(199, 81, 31) - Hover color for links
+
 
 background: linear-gradient(to bottom, rgba(128, 128, 128, 0) 35%, rgb(227, 230, 230) 100%) - gradient for the background image
 background: linear-gradient(to bottom, rgb(255, 215, 116) 40%, rgb(255, 198, 53) 40%) - gradient for the signin button
