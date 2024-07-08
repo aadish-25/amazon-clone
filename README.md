@@ -29,6 +29,10 @@ To get a local copy up and running, follow these simple steps:
 3. **Explore**:
    Review the HTML and CSS files to see how Amazon's UI elements are replicated.
 
+   <br>
+
+- **Live Demo**: https://aadish-25.github.io/amazon-clone/
+
 ## Roadmap
 
 - Implement basic functionality such as navigation, product listings, and interactive elements.
