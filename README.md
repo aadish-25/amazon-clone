@@ -45,7 +45,7 @@ Contributions are welcome! If you have suggestions, ideas, or improvements, plea
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt) - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
